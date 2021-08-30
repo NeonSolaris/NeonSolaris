@@ -1,7 +1,6 @@
 # About Me
 - 👋 Hi, I’m [@NeonSolaris](https://github.com/NeonSolaris)
-- 👀 I’m interested in:
-```CSS
+- 👀 I’m interested in: ```CSS
 PHP Web Developer
 JavaScript
 Node.js
@@ -19,8 +18,7 @@ Illustrator
 Macromedia Fireworks
 Macromedia Dreamweaver
 Krita
-VSDC Video Editor
-```
+VSDC Video Editor```
 - 🌱 I’m currently learning:
 ```CSS
 
