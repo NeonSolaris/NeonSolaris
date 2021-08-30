@@ -46,7 +46,7 @@ Figma
 
 <!--- - 🐱‍🚀 I’m looking for opportunities to ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ...
+- 📫 How to contact me: Email me on NeonSolarisGH@gmail.com
 
 <!---
 NeonSolaris/NeonSolaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
