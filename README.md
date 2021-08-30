@@ -1,12 +1,13 @@
 # About Me
 - 👋 Hi, I’m [@NeonSolaris](https://github.com/NeonSolaris)
-- 👀 I’m interested in: ```CSS
+- 🐬 Skillset:
+```CSS
 PHP Web Developer
 JavaScript
 Node.js
 HTML/HTML5
 CSS
-Database MySQL, Oracle
+Oracle & MySQL Databases
 Data analyst
 Web analytics tools
 eCommerce
@@ -18,12 +19,33 @@ Illustrator
 Macromedia Fireworks
 Macromedia Dreamweaver
 Krita
-VSDC Video Editor```
+VSDC Video Editor
+```
+
+- 👀 I’m interested in:
+```CSS
+PHP
+JavaScript
+Node.JS
+HTML/HTML5
+CSS
+MySQL
+Data science
+Web analytics
+eCommerce
+Data visualisation
+Python
+```
+
 - 🌱 I’m currently learning:
 ```CSS
-
+C#
+AI
+Figma
 ```
-- 💞️ I’m looking to collaborate on ...
+
+<!--- - 🐱‍🚀 I’m looking for opportunities to ... --->
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ...
 
 <!---
